@@ -1,2 +1,2 @@
-# Teste-Front-End-Kzas
-Teste para vaga de Front-end na Kzas
+# Projeto em react.js
+Aplicando Front-end na lib react.js
